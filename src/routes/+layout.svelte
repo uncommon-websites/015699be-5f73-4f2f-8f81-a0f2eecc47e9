@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Config - Superpowers for Hardware Teams</title>
+	<title>Company - Custom Enterprise Software Delivered Rapidly</title>
 </svelte:head>
 
 <slot />
